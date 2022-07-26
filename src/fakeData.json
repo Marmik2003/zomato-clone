@@ -1,0 +1,54 @@
+{
+  "foodDetails": [
+    {
+      "id": 1,
+      "hotelName": "McDonalds",
+      "hotelUrl": "https://b.zmtcdn.com/data/pictures/2/19364902/6462776032d23eab358cd30b0adcf652_o2_featured_v2.jpg?output-format=webp",
+      "hotelType": "Burgers",
+      "hotelRating": "5.0",
+      "discount": "₹150 OFF",
+      "time": "5 min",
+      "price": "₹600 for one"
+    },
+    {
+      "id": 2,
+      "hotelName": "Sky High",
+      "hotelUrl": "https://b.zmtcdn.com/data/pictures/7/19771177/39ed14619059544989510f03720ab12d_o2_featured_v2.jpg?output-format=webp",
+      "hotelType": "Veg, North Indian",
+      "hotelRating": "3.8",
+      "discount": "60% OFF",
+      "time": "34 min",
+      "price": "₹200 for one"
+    },
+    {
+      "id": 4,
+      "hotelName": "Rajbaag Restaurant",
+      "hotelUrl": "https://b.zmtcdn.com/data/pictures/2/19360002/b2a9cd1acb54f931ba105e5247e834c5_o2_featured_v2.jpg?output-format=webp",
+      "hotelType": "North Indian, Pasta",
+      "hotelRating": "3.3",
+      "discount": "40% OFF",
+      "time": "10 min",
+      "price": "₹390 for one"
+    },
+    {
+      "id": 5,
+      "hotelName": "Mr Gurung Momo",
+      "hotelUrl": "https://b.zmtcdn.com/data/pictures/7/19017177/1bfc17f3fb52b6532f01820bdde68a48_o2_featured_v2.jpg?output-format=webp",
+      "hotelType": "Momos Dumplings",
+      "hotelRating": "4.0",
+      "discount": "50% OFF",
+      "time": "30 min",
+      "price": "₹200 for one"
+    },
+    {
+      "id": 6,
+      "hotelName": "28 Spice Club",
+      "hotelUrl": "https://b.zmtcdn.com/data/pictures/4/20197124/c32aab8ddd2daec021ba17ec25194f8a_o2_featured_v2.jpg",
+      "hotelType": "South India, Veg",
+      "hotelRating": "4.2",
+      "discount": "20% OFF",
+      "time": "40 min",
+      "price": "₹150 for one"
+    }
+  ]
+}

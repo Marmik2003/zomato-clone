@@ -1,0 +1,12 @@
+@media screen and (max-width: 700px) {
+  .header-title {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  .header-title {
+    margin: 0.5rem;
+  }
+}
